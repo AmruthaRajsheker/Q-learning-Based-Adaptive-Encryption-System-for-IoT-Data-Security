@@ -1,4 +1,4 @@
-// receiver 
+//arduino receiver 
 
 #include <LoRa.h>
 

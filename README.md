@@ -1,4 +1,4 @@
-# Project Report: **IoT Data Security Enhancement Using Q-learning-based Encryption**
+# **IoT Data Security Enhancement Using Q-learning-based Encryption**
 
 ## 1. **Introduction**
 

@@ -1,5 +1,4 @@
-# **IoT Data Security Enhancement Using Q-learning-based Encryption**
-
+# A Q-learning Based Encryption and Decryption System for Securing IoT Data Transmission over LoRa Networks
 
 ## Abstract
 With the rapid expansion of the Internet of Things (IoT), data security has become a critical concern. This project presents an adaptive encryption system that leverages Q-learning, a reinforcement learning technique, to dynamically select optimal encryption strategies for secure data transmission in an IoT network. The system is designed to operate in real-time, ensuring robust data protection without compromising on efficiency.
